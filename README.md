@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Discord](https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/VEhNQXxYMB)
 
 # OpenWork
@@ -197,3 +198,7 @@ Interested in using OpenWork in your organization? We'd love to hear from you â€
 ## License
 
 MIT â€” see `LICENSE`.
+=======
+# bio_annotation
+based on openwork
+>>>>>>> 3d3b3a0dce385984d02cd5d57ea1e53c38ef4916
